@@ -40,7 +40,8 @@
   "dependencies": {
     "babel-loader": "^7.0.0",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-tagsinput": "^3.19.0"
   },
   "main": "server.js"
 }
